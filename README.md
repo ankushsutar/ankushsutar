@@ -1,4 +1,4 @@
-![Your Animated GIF](https://github.com/ankushsutar/ankushsutar/blob/main/Banner.gif)
+![Your Animated GIF](https://github.com/ankushsutar/ankushsutar/blob/main/github%20banner.gif)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
