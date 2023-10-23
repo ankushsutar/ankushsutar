@@ -1,9 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+![Your Animated GIF](https://github.com/ankushsutar/ankushsutar/blob/main/Banner.gif)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Mumbai.</h3>
 <h4 align="center">
 I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development :spider_web: and working on my Data Structures and Algorithms</h4>
 
